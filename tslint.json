@@ -14,9 +14,10 @@
     "forin": true,
     "import-blacklist": [true, "rxjs"],
     "import-spacing": true,
+    "semicolon": [true, "ignore-interfaces", "ignore-bound-class-methods"],
     "indent": [
       true,
-      "spaces"
+      "tab"
     ],
     "interface-over-type-literal": true,
     "label-position": true,
